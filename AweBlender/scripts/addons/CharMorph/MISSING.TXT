@@ -1,0 +1,9 @@
+CURRENTLY MISSING FILES DUE TO SIZE LIMIT:
+
+CharMorph/data/characters/mb_female/assets/RGF.DNA.boots/asset.blend
+
+CharMorph/data/characters/mb_female/assets/trousers.blend
+
+
+
+Please manually download them!
